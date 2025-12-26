@@ -9,4 +9,4 @@ Contributors (alphabetical):
 - Sam Prieto Serrano (myself)
 - Jordan Ratsirarson
 
-Original development occurred prior to this repository; contributor history was lost due to deletion of orginal repo by univeristy-administered Github organization. Only the source code was saved and uploaded here. 
+Original development occurred prior to this repository; contributor history and repo Wiki were lost due to deletion of orginal repo by univeristy-administered Github organization. Only the source code was saved and uploaded here. 

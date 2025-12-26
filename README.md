@@ -4,6 +4,10 @@ We are team 23 and we created the product LanGage, a Chrome browser extension wi
 
 ## Trying Out the Code
 
+**EDIT 1: In this reupload, option 1 of the two options presented below is not available (since the repo will be public). To test the tool/extension, follow option 2. For details, see the AUTHORS.md file.** 
+
+**EDIT 2: Some links to the original repo and its Wiki are no longer valid, sadly. For details, see the AUTHORS.md file.**
+
 To test our code, you can either (1) test the extension tool on its own within your Chrome browser, or (2) open and build our code yourself. 
 
 (1) To install the extension as it is, follow these steps:
@@ -33,9 +37,9 @@ npm run build-release
 
 # Notes on API Keys
 
-Previous commits to this repo included an OpenAI API key(s) hardcoded in the `src` scripts. Those keys have been deativated. If you wish to Webpack our code yourself, you will need your own API key to plug into the `apiConfig.json` file. 
+Previous commits to the original repo included an OpenAI API key(s) hardcoded in the `src` scripts. Those keys have been deativated. If you wish to Webpack our code yourself, you will need your own API key to plug into the `apiConfig.json` file. 
 
-1. Team repo was always private, so API key never was exposed publicly from the commits. 
+1. Orginal team repo was always private, so API key never was exposed publicly from the commits. 
 2. We can freely share the packed folder that we build with Webpack (the folder to install the extension on your browser) because the `npm run build-release` command bundles the source code and minimizes the JS files. Thus the Webpack-ed files have the API key embedded but obfuscated/not readable.
 
 Therefore, we could share the packed folder `testable_extension` with users right now without exposing the API key used. 
