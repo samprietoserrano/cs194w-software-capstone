@@ -4,6 +4,8 @@ We are team 23 and we created the product LanGage, a Chrome browser extension wi
 
 ## Trying Out the Code
 
+To learn how our tool works, read the README at `unpacked_langage_code/README.md` (product video + user test plan).
+
 **EDIT 1: In this reupload, option 1 of the two options presented below is not available (since the repo will be public). To test the tool/extension, follow option 2. For details, see the AUTHORS.md file.** 
 
 **EDIT 2: Some links to the original repo and its Wiki are no longer valid, sadly. For details, see the AUTHORS.md file.**
